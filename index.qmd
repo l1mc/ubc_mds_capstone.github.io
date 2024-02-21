@@ -1,0 +1,21 @@
+---
+title: "Why Rio Tinto Is My First Choice?"
+---
+
+Dear Sir or Madam,
+
+I am writing to express my strong interest in choosing Rio Tinto for my Capstone project. I believe that this project aligns perfectly with my career goals and will provide me with valuable experience and skills that will give me an edge in the job market.
+
+As you may know, my career goal is to work as a Data Scientist in the mining industry after graduation. Therefore, the opportunity to work on a project with Rio Tinto, a leading mining company, is incredibly exciting to me. By participating in this project, I will gain valuable insights into the industry and acquire hands-on experience in applying data science techniques to real-world problems. This will not only enhance my resume but also give me a competitive advantage when applying for jobs in the future.
+
+Furthermore, I am deeply interested in the application of deep learning-based NLP in traditional industries. I believe that this field has immense potential and offers many opportunities for innovation. The core of the Rio Tinto project is to develop a customized named entity recognition system, which I find challenging but fascinating. This project will allow me to apply my knowledge of NLP and deep learning to a real-world problem and develop a system that can add value to the company.
+
+I take the selection of my Capstone project very seriously, and I want to ensure that I choose a project that will allow me to make a meaningful contribution to the company. I spent a significant amount of time reviewing each video proposal before the Capstone Fair, analyzing the skills involved, the company's core business, and the scope of the project. During the Capstone fair, I had in-depth discussions with the representatives of my top four choices, and after careful consideration, I decided that the Rio Tinto project is the best fit for me.
+
+I understand that there are limited spots available for this project, and I am confident that I can make a valuable contribution to the team. I am committed to putting in the necessary effort to ensure that the project is a success and that the results can be implemented in the company. I would be incredibly grateful if you could support my application and allow me to participate in this project.
+
+Thank you for considering my request!
+
+Sincerely,
+
+Mingcong Li
